@@ -11,4 +11,6 @@
 
 ![](https://github-readme-stats.vercel.app/api?username=vvo&count_private=true)
 
+[![Source Karma For vvo](https://sourcekarma-og.vercel.app/api/vvo/github)](https://sourcekarma.vercel.app/vvo)
+
 ![](https://komarev.com/ghpvc/?username=vvo)
