@@ -1,6 +1,8 @@
 # Hi there 👋
 
-## Indie Hacker
+I am a Senior Web Developer at [PhotoRoom](https://photoroom.app).
+
+## Maker
 
 - [TurnShift](https://turnshift.app/): Automate Your Team Schedule
 - [Next.js News](https://nextjsnews.com/): The Next.js Monthly Newsletter
