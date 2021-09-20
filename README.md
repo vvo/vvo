@@ -1,6 +1,6 @@
 # Hi there 👋
 
-I am a Senior Web Developer at [PhotoRoom](https://photoroom.app).
+
 
 ## Maker
 
