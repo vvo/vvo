@@ -10,5 +10,3 @@
 - Tweets [@vvoyer](https://twitter.com/vvoyer): JavaScript, React, Next.js, Building In Public
 
 [![Source Karma badge for @vvo](https://sourcekarma-og.vercel.app/api/vvo/github)](https://sourcekarma.vercel.app/vvo)
-
-![](https://komarev.com/ghpvc/?username=vvo)
